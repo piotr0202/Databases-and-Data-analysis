@@ -1,0 +1,50 @@
+,Name,Breed,Color,Height (cm),Weight (kg),Date of Birth,Tail Length (cm),Number of Paws,Age
+1,Bella ,Labrador ,Brown ,56.0,25.0,2013-07-01,30.0,4.0,11
+3,Charlie ,Poodle ,Black ,43.0,23.0,2016-09-16,25.0,4.0,8
+5,Lucy ,Chow Chow ,Brown ,46.0,22.0,2014-08-25,22.0,4.0,10
+7,Cooper ,Schnauzer ,Gray ,49.0,17.0,2011-12-11,24.0,4.0,12
+9,Max ,Labrador ,Black ,59.0,29.0,2017-01-20,35.0,4.0,7
+11,Stella ,Chihuahua ,Tan ,18.0,2.0,2015-04-20,12.0,4.0,9
+13,Bernie ,St. Bernard ,White ,77.0,74.0,2018-02-27,40.0,4.0,6
+15,Daisy ,Labrador ,Yellow ,57.0,27.0,2012-06-30,32.0,4.0,12
+17,Rocky ,Poodle ,White ,41.0,22.0,2017-03-03,23.0,4.0,7
+19,Milo ,Chow Chow ,Red ,48.0,24.0,2016-08-15,22.0,4.0,8
+21,Rex ,Schnauzer ,Black ,50.0,18.0,2015-07-07,25.0,4.0,9
+23,Sadie ,Labrador ,Chocolate ,58.0,28.0,2014-10-14,33.0,4.0,10
+25,Luna ,Chihuahua ,Black ,19.0,3.0,2018-11-11,10.0,4.0,5
+27,Hank ,St. Bernard ,Brown ,75.0,72.0,2019-05-12,38.0,4.0,5
+29,Buddy ,Labrador ,Yellow ,60.0,30.0,2013-02-09,34.0,4.0,11
+31,Lily ,Poodle ,Brown ,45.0,20.0,2018-01-04,24.0,4.0,6
+33,Duke ,Chow Chow ,Black ,47.0,23.0,2015-03-18,22.0,4.0,9
+35,Oscar ,Schnauzer ,Gray ,51.0,19.0,2012-12-02,26.0,4.0,11
+37,Zoe ,Labrador ,Black ,55.0,26.0,2016-09-22,31.0,4.0,8
+39,Minnie ,Chihuahua ,White ,17.0,2.0,2020-06-10,11.0,4.0,4
+41,Thor ,St. Bernard ,White ,78.0,76.0,2017-04-06,42.0,4.0,7
+43,Sam ,Labrador ,Chocolate ,59.0,28.0,2014-11-11,34.0,4.0,9
+45,Baxter ,Poodle ,Gray ,42.0,21.0,2018-07-29,24.0,4.0,6
+47,Ruby ,Chow Chow ,Red ,49.0,22.0,2012-02-27,23.0,4.0,12
+49,Teddy ,Schnauzer ,Black ,48.0,18.0,2014-01-12,25.0,4.0,10
+51,Maggie ,Labrador ,Brown ,57.0,27.0,2017-03-14,33.0,4.0,7
+53,Harley ,Chihuahua ,Tan ,19.0,3.0,2019-12-05,12.0,4.0,4
+55,Zeus ,St. Bernard ,Brown ,80.0,78.0,2020-06-19,41.0,4.0,4
+57,Ginger ,Labrador ,Yellow ,56.0,25.0,2016-08-07,30.0,4.0,8
+59,Chloe ,Poodle ,White ,44.0,22.0,2015-05-13,24.0,4.0,9
+61,Bear ,Chow Chow ,Brown ,46.0,21.0,2013-01-25,22.0,4.0,11
+63,Finn ,Schnauzer ,Gray ,50.0,18.0,2017-11-30,25.0,4.0,6
+65,Bruno ,Labrador ,Black ,58.0,28.0,2015-10-26,34.0,4.0,9
+67,Peanut ,Chihuahua ,Brown ,17.0,3.0,2021-02-20,10.0,4.0,3
+69,Tank ,St. Bernard ,White ,76.0,73.0,2016-03-18,42.0,4.0,8
+71,Jack ,Labrador ,Yellow ,59.0,29.0,2018-12-09,35.0,4.0,5
+73,Penny ,Poodle ,Brown ,43.0,21.0,2016-04-04,23.0,4.0,8
+75,Moose ,Chow Chow ,Black ,48.0,23.0,2018-08-21,22.0,4.0,6
+77,Toby ,Schnauzer ,Black ,49.0,17.0,2016-09-12,24.0,4.0,8
+79,Willow ,Labrador ,Chocolate ,57.0,26.0,2015-05-22,32.0,4.0,9
+81,Coco ,Chihuahua ,Black ,18.0,2.0,2017-01-17,12.0,4.0,7
+83,Apollo ,St. Bernard ,Brown ,77.0,75.0,2015-07-29,40.0,4.0,9
+85,Murphy ,Labrador ,Yellow ,58.0,27.0,2017-09-06,33.0,4.0,7
+87,Piper ,Poodle ,White ,44.0,22.0,2017-11-09,24.0,4.0,6
+89,Nala ,Chow Chow ,Red ,47.0,24.0,2014-06-14,22.0,4.0,10
+91,Riley ,Schnauzer ,Gray ,51.0,19.0,2019-04-30,26.0,4.0,5
+93,Archie ,Labrador ,Black ,59.0,28.0,2019-10-05,34.0,4.0,5
+95,Sophie ,Chihuahua ,Tan ,18.0,2.0,2018-03-15,12.0,4.0,6
+97,Buster ,St. Bernard ,White ,79.0,77.0,2018-07-11,41.0,4.0,6
